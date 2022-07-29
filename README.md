@@ -1,4 +1,4 @@
-# 2022.07python-learing
+# 2022.07-python-learing
 
 > basic learning and preparing python for project in college
 
